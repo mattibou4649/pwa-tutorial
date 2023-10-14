@@ -1,14 +1,14 @@
 const staticCacheName = 'site-static-v3';
 const dynamicCacheName = 'site-dynamic-v3';
 const assets = [
-  '/',
-  '/index.html',
-  '/js/app.js',
-  '/js/ui.js',
-  '/js/materialize.min.js',
-  '/css/styles.css',
-  '/css/materialize.min.css',
-  '/img/dish.png',
+  'pwa-tutorial/',
+  'pwa-tutorial/index.html',
+  'pwa-tutorial/js/app.js',
+  'pwa-tutorial/js/ui.js',
+  'pwa-tutorial/js/materialize.min.js',
+  'pwa-tutorial/css/styles.css',
+  'pwa-tutorial/css/materialize.min.css',
+  'pwa-tutorial/img/dish.png',
   'https://fonts.googleapis.com/icon?family=Material+Icons',
   'https://fonts.gstatic.com/s/materialicons/v47/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2',
   '/pages/fallback.html'
